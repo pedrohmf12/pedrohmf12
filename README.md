@@ -1,7 +1,7 @@
-  - 👋 Hi, I’m @pedrohmf12  
-- 👀 I’m interested in  Estágio em T.I
-- 🌱 I’m currently learning  ___Análise e Desenvolvimento de Sistemas               
-- 💞️ I’m looking to collaborate on ... Dev, Front-End, WebDesign      
+  - 👋 Olá, Eu sou o Pedro 
+- 👀 Estou em busca do meu primerio Estágio em T.I
+- 🌱 Atualmente estou cursando  ___Análise e Desenvolvimento de Sistemas               
+- 💞️Com foco em ... Desenvolvimento Mobile e Web    
 - 📫 How to reach me ?  @pedro_mferr  INSTAGRAM 
 <!---
 pedrohmf12/pedrohmf12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
