@@ -1,8 +1,9 @@
-Sou um estudante de ADS no 4º período.
-Em busca da minha primeira oportunidade como desenvolvedor de software.
-Possuo conhecimentos avançados em Python e RPA, tendo trabalhado em projetos pessoais desde a análise de requisitos até a implementação e manutenção.
-Apaixonado por automação de processos e soluções simples e eficientes.
-Estou ansioso para aplicar meus conhecimentos e habilidades adquiridos através dos meus projetos pessoais em uma equipe profissional e continuar a crescer e aprender na indústria."
+Sou Pedro Henrique, estudante de Análise e Desenvolvimento de Software e Desenvolvedor Fullstack JavaScript e Node, com conhecimentos em Python e RPA.
+Tenho experiência em desenvolvimento de aplicações web e desenvolvimento de software, com projetos pessoais.
+Acredito na colaboração e da importância de trabalhar em equipe para o desenvolvimento de projetos.
+Buscando constantemente refinar meus conhecimentos para aprimorar meu trabalho na área de desenvolvimento de software.
 
-- 📫 How to reach me ?  @pedro_mferr  INSTAGRAM 
+- 📫 How to reach me ?
+- @pedro_mferr  [Instagram](https://www.instagram.com/pedro_mferr/) 
+- Pedro Ferreira [Linkedin](https://www.linkedin.com/in/pedro-f-951210140/)
 
