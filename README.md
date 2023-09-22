@@ -10,7 +10,7 @@
 
 ### Como entrar em contato comigo:
 
-- 📧 **E-mail**: [seu-email@gmail.com](mailto:seu-email@gmail.com)
+- 📧 **E-mail**: [pedrohenriferreira123@gmail.com](mailto:pedrohenriferreira123@gmail.com)
 - 💼 **LinkedIn**: [Pedro Ferreira](https://www.linkedin.com/in/pedro-f-951210140/)
 - 📷 **Instagram**: [@pedro_mferr](https://www.instagram.com/pedro_mferr/)
 
