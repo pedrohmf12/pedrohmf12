@@ -1,4 +1,4 @@
-## Olá, sou Pedro Muniz! 👋
+## Olá, me chamo Pedro Muniz! 👋
 
 👨‍💻 Sou Dev Python Jr. E um apaixonado em desenvolvimento back-end em Python. Minha paixão reside na automação e no scraping de dados.
 
