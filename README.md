@@ -2,7 +2,7 @@
 
 👨‍💻 Sou Dev Python Jr. E um apaixonado em desenvolvimento back-end em Python. Minha paixão reside na automação e no scraping de dados.
 
-🤖 Tenho experiência sólida no desenvolvimento de bots para webscraping e na automação de tarefas, com projetos pessoais que exploram ao máximo as potencialidades dessa tecnologia.
+🤖 Aprimorando meus conhecimentos e habilidades no desenvolvimento de bots para webscraping e na automação de tarefas, com projetos pessoais que exploram ao máximo as potencialidades dessa tecnologia.
 
 💼 Atualmente, estou em busca de oportunidades para aplicar e expandir minhas habilidades como desenvolvedor Python Júnior.
 
